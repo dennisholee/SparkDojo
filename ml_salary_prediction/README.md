@@ -1,3 +1,7 @@
+# Data Visualization
+
+![](https://github.com/dennisholee/SparkDojo/blob/master/ml_salary_prediction/ML_SALARY_PREDICTION.png)
+
 # Setup environment
 
 ## Upload file to HDFS
